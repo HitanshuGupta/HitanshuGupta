@@ -1,7 +1,7 @@
-[![MasterHead]([https://www.bing.com/images/search?view=detailV2&ccid=pg%2bmvrrm&id=1B738955BE6C0BD0AC8EFC9B3C6DE5CBD99E95C8&thid=OIP.pg-mvrrm26mLlitSWncgJQHaEy&mediaurl=https%3a%2f%2fralfneubauer.info%2fwp-content%2fuploads%2f2021%2f01%2fDevOpsLove.gif&exph=455&expw=704&q=animated+devOps+gif&simid=608027675808898636&FORM=IRPRST&ck=385FAAE25A7966380CE90AC2B016DE68&selectedIndex=20&ajaxhist=0&ajaxserp=0](https://ralfneubauer.info/wp-content/uploads/2021/01/DevOpsLove.gif))
+[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
 <h1 align="center">Hi 👋, I'm Hitanshu Gupta</h1>
 <h3 align="center">An enthusiastic learner with a passion for DevOps, Machine Learning, and the MERN stack. I am driven by curiosity and always eager to explore the latest technologies in the world.</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.bing.com/images/search?view=detailV2&ccid=4fNBO%2fUD&id=32E4D5B8DEF4D21131B4D2E49B5D08F67B5F0251&thid=OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f1162077%2fscreenshots%2f3848914%2fprogrammer.gif&exph=600&expw=800&q=animated+funny+coding+gif&simid=608041273670189966&FORM=IRPRST&ck=1525C3024C1B097B8DC316B757E7A12C&selectedIndex=27&ajaxhist=0&ajaxserp=0](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hitanshugupta&label=Profile%20views&color=0e75b6&style=flat" alt="hitanshugupta" /> </p>
 
