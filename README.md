@@ -1,4 +1,6 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)]
+<div style="text-align: center;">
+  <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="MasterHead" style="width: 768px; display: block; margin: 0 auto;"/>
+</div>
 <h1 align="center">Hi 👋, I'm Hitanshu Gupta</h1>
 <h3 align="center">An enthusiastic learner with a passion for DevOps, Machine Learning, and the MERN stack. I am driven by curiosity and always eager to explore the latest technologies in the world.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
