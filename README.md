@@ -13,11 +13,7 @@
 
 - 🔭 I’m currently working on [Careers website](https://github.com/HitanshuGupta/Careers-website-using-Flask)
 
-- 🌱 I’m currently learning **MERN stack, DevOps, Machine Learning, Flask**
-
-- 👯 I’m looking to collaborate on [End-End ML Project](https://github.com/HitanshuGupta/End-to-End-ML-Project)
-
-- 👨‍💻 All of my projects are available at [sports.hitanshu.live](sports.hitanshu.live)
+- 🌱 I’m currently learning **MERN stack, DevOps**
 
 - 💬 Ask me about **DevOps, ML, JS, Python**
 
