@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **thehitanshugupta@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fvAUDZd_p7Wwm5EqOUZq6ps71R9XttUU/view?usp=sharing](https://drive.google.com/file/d/1fvAUDZd_p7Wwm5EqOUZq6ps71R9XttUU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fvAUDZd_p7Wwm5EqOUZq6ps71R9XttUU/view?usp=sharing)
 
 - ⚡ Fun fact **Being a Full time Learner is amazing Job right now i have.**
 
