@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/hitanshugupta18" target="blank"><img src="https://img.shields.io/twitter/follow/hitanshugupta18?logo=twitter&style=for-the-badge" alt="hitanshugupta18" /></a> </p>
 
-- 🔭 I’m currently working on [Careers website](https://github.com/HitanshuGupta/Careers-website-using-Flask)
+- 🔭 I’m currently working on [TechyGuy-React-WebApp](https://github.com/HitanshuGupta/TechyGuy-React-WebApp)
 
 - 🌱 I’m currently learning **MERN stack, DevOps**
 
