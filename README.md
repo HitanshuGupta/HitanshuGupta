@@ -13,28 +13,18 @@
 
 - 🔭 I’m currently working on [TechyGuy-React-WebApp](https://github.com/HitanshuGupta/TechyGuy-React-WebApp)
 
-- 🌱 I’m currently learning **MERN stack, DevOps**
-
-- 💬 Ask me about **DevOps, ML, JS, Python**
+- 🌱 I’m currently learning **MERN stack, DevOps, Cloud, ML**
 
 - 📫 How to reach me **thehitanshugupta@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fvAUDZd_p7Wwm5EqOUZq6ps71R9XttUU/view?usp=sharing)
 
-- ⚡ Fun fact **Being a Full time Learner is amazing Job right now i have.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hitanshugupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hitanshugupta" height="30" width="40" /></a>
 <a href="https://twitter.com/hitanshugupta18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitanshugupta18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hitanshu-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hitanshu-gupta" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16972654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16972654" height="30" width="40" /></a>
-<a href="https://kaggle.com/hitanshugupta19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hitanshugupta19" height="30" width="40" /></a>
-<a href="https://fb.com/hitanshu.gupta.7355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hitanshu.gupta.7355" height="30" width="40" /></a>
 <a href="https://instagram.com/g.hitanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="g.hitanshu" height="30" width="40" /></a>
 <a href="https://hashnode.com/@hitanshug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@hitanshug" height="30" width="40" /></a>
-<a href="https://medium.com/@thehitanshugupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@thehitanshugupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hitanshugupta14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hitanshugupta14" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hitanshugupta212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hitanshugupta212" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hitanshuG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hitanshu69" height="30" width="40" /></a>
 </p>
