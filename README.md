@@ -11,13 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/hitanshugupta18" target="blank"><img src="https://img.shields.io/twitter/follow/hitanshugupta18?logo=twitter&style=for-the-badge" alt="hitanshugupta18" /></a> </p>
 
-- 🔭 I’m currently working in **Unisys Global Solutions as a Intern.**
-
-- 🌱 I’m currently learning **MERN stack, DevOps, Cloud, ML**
+- 🔭 I’m currently working in **Unisys Global Services as Associate Software Engineer.**
 
 - 📫 How to reach me **thehitanshugupta@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SL9XGrFqNwg6hZfuO5nJFCBPGKBhA-Y9/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kV0FxBJD8rEG1lORaq5b5IqrKramvP-5/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
